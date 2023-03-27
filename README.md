@@ -1,6 +1,6 @@
 # Salaries planner
 ___
-### Used trchnology
+### Used technology
 Java 18
 ### Usage
 The program starts up in console 
