@@ -17,5 +17,5 @@ and then will fill it with each month **Pay day** date and **Day to send a remin
 run **SalariesPlanner** class main function.
 * To run it in command prompt, You need to navigate to this project **src** folder on your computer using **cd** command
 and the type this two commands:
-    1.     javac PaymentsOfSalaries.java
-  2.     java PaymentsOfSalaries.java
+    1.     javac SalariesPanner.java
+  2.     java SalariesPanner.java
